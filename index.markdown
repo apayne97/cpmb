@@ -4,5 +4,4 @@
 layout: default
 permalink:
 ---
-toc:
-  [2021 Syllabus]({% link home.markdown%})
+[2021 Syllabus]({% link home.markdown%})
